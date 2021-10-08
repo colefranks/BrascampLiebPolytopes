@@ -2,7 +2,7 @@
 
 Computes random Brascamp Lieb polytopes using a representation-theoretic description. 
 
-Usage: after attaching to sage session, run e.g. 
+Usage: after attaching BL_vertices.sage to sage session, run e.g. 
 
 BL_vertices([3,3,3,2,5])
 
